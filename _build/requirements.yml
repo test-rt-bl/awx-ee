@@ -3,7 +3,7 @@ collections:
   - name: awx.awx
   - name: azure.azcollection
   - name: amazon.aws
-  - name: git+https://github.com/test-rt-bl/community.vmware.git
+  - name: community.vmware
   - name: kubernetes.core
   - name: ansible.posix
   - name: ansible.windows
