@@ -20,4 +20,3 @@ collections:
   - name: community.hashi_vault
   - name: community.kubernetes
   - name: community.network
-  - name: servicenow.servicenow
